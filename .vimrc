@@ -10,4 +10,5 @@ set modeline
 set ls=2
 set smartindent
 set noerrorbells
+set noswapfile
 highlight Comment ctermfg=green
